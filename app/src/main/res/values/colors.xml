@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3851a3</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#f94359</color>
+
+    <color name="denim_blue">#ff3851a3</color>
+    <color name="watermelon">#f94359</color>
+    <color name="sky_blue">#49b4ff</color>
+    <color name="red">#ff0000</color>
+
+    <color name="greyish_brown">#4d4d4d</color>
+    <color name="brownish_grey">#6d6d6d</color>
+    <color name="greyish_brown_two">#3d3d3d</color>
+
+    <color name="green">#25b723</color>
+    <color name="azure">#00a8e6</color>
+    <color name="white">#ffffff</color>
+    <color name="black">#000000</color>
+    <color name="black_two">#de000000</color>
+    <color name="transparent">#00000000</color>
+    <color name="inactive_gray">#dbdbdb</color>
+    <color name="transparent_black">#55000000</color>
+    <color name="transparent_jet_black">#99000000</color>
+    <color name="yellow">#fdba38</color>
+    <color name="brownish_grey_50">#806a6a6a</color>
+    <color name="black_20">#33000000</color>
+    <color name="home_item_color">#de4d4d4d</color>
+    <color name="home_item_color_secondary">#8a000000</color>
+    <color name="greyish">#8f8f8f</color>
+    <color name="divider_line">#eeeeee</color>
+    <color name="facebook_color">#415dae</color>
+    <color name="warm_grey">#838383</color>
+    <color name="warm_grey_two">#8d8d8d</color>
+    <color name="warm_grey_three">#979797</color>
+    <color name="border_grey">#d5d5d5</color>
+    <color name="line_separator">#80d5d5d5</color>
+    <color name="alpha_border_grey">#40dbdbdb</color>
+    <color name="image_background">#fafafa</color>
+
+    <color name="skip_bg">#f3f3f3</color>
+    <color name="view_bg">#979797</color>
+    <color name="gray_semi_transparent">#7d000000</color>
+
+    <color name="horoscope_header">#f7f7f7</color>
+    <color name="horoscope_time_color">#1e1e1e</color>
+    <color name="horoscope_background_color">#eeeeee</color>
+
+    <color name="_FF08D1ED_cyan">#169e8c</color>
+    <color name="_00000000_transparent">#00000000</color>
+
+</resources>
