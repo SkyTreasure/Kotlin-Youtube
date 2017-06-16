@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/home/akash/.gradle/caches/modules-2/files-2.1/org.jetbrains.anko/anko-support-v4-commons/0.10.1/50e8e6bf5e0fe29b7bcb0009e104ae2ede7d8486/anko-support-v4-commons-0.10.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="50e8e6bf5e0fe29b7bcb0009e104ae2ede7d8486">
+        <dex dex="/home/akash/Desktop/Purvo/MyGitHub/gitKotlin/Kotlin-Youtube/app/build/intermediates/transforms/dex/debug/folders/1000/10/anko-support-v4-commons-0.10.1_3fd8cd639acc0963817ada28b690326f7947b5a5/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/akash/.gradle/caches/modules-2/files-2.1/org.jetbrains.anko/anko-appcompat-v7-commons/0.10.1/dcc19fb69c6107d999eccd277df027c44eb62dec/anko-appcompat-v7-commons-0.10.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="dcc19fb69c6107d999eccd277df027c44eb62dec">
+        <dex dex="/home/akash/Desktop/Purvo/MyGitHub/gitKotlin/Kotlin-Youtube/app/build/intermediates/transforms/dex/debug/folders/1000/10/anko-appcompat-v7-commons-0.10.1_1b9b9e21f481d3b80fb0d1aa5fa646e12322b0af/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/akash/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-stdlib/1.1.2-5/508b8b59843653756aeed058a3a421afa0657bcb/kotlin-stdlib-1.1.2-5.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="508b8b59843653756aeed058a3a421afa0657bcb">
+        <dex dex="/home/akash/Desktop/Purvo/MyGitHub/gitKotlin/Kotlin-Youtube/app/build/intermediates/transforms/dex/debug/folders/1000/10/kotlin-stdlib-1.1.2-5_e7bbf619e379946dc94c5d6ebc3866728fbe9efc/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/akash/Desktop/Purvo/MyGitHub/gitKotlin/Kotlin-Youtube/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="eb269a0a7f0ba165855fb5c3df9ed506d9e8e2f5">
+        <dex dex="/home/akash/Desktop/Purvo/MyGitHub/gitKotlin/Kotlin-Youtube/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_53e19bba1508da5cbdb4a780c310996c1a0d1d44/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/akash/Android/Sdk/extras/m2repository/com/android/support/constraint/constraint-layout-solver/1.0.2/constraint-layout-solver-1.0.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="/home/akash/Desktop/Purvo/MyGitHub/gitKotlin/Kotlin-Youtube/app/build/intermediates/transforms/dex/debug/folders/1000/10/constraint-layout-solver-1.0.2_4cb0abfc1c7947b0f07c336c27e56de321fdbeaf/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/akash/Desktop/Purvo/MyGitHub/gitKotlin/Kotlin-Youtube/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="/home/akash/Desktop/Purvo/MyGitHub/gitKotlin/Kotlin-Youtube/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_4598d8165a0c26e9bea81311addf4077710026b9/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/akash/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-stdlib-jre7/1.1.2-5/6617f5ad8c76e5141fff9da5b8975081cad24ccf/kotlin-stdlib-jre7-1.1.2-5.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="6617f5ad8c76e5141fff9da5b8975081cad24ccf">
+        <dex dex="/home/akash/Desktop/Purvo/MyGitHub/gitKotlin/Kotlin-Youtube/app/build/intermediates/transforms/dex/debug/folders/1000/10/kotlin-stdlib-jre7-1.1.2-5_e43be42973c66ef9715b107f14561553fbd8be92/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/akash/.gradle/caches/modules-2/files-2.1/org.jetbrains.anko/anko-design/0.10.1/9d84c9d42f162c492c61cae3914a0aff6630ce48/anko-design-0.10.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="9d84c9d42f162c492c61cae3914a0aff6630ce48">
+        <dex dex="/home/akash/Desktop/Purvo/MyGitHub/gitKotlin/Kotlin-Youtube/app/build/intermediates/transforms/dex/debug/folders/1000/10/anko-design-0.10.1_66ce2990f0d16b92128f7ae66959938fa2dadb7b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/akash/.gradle/caches/modules-2/files-2.1/org.jetbrains.anko/anko-recyclerview-v7/0.10.1/e23de9cba2293f9aeefaccc6519eeca8b2b5ef3/anko-recyclerview-v7-0.10.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="0e23de9cba2293f9aeefaccc6519eeca8b2b5ef3">
+        <dex dex="/home/akash/Desktop/Purvo/MyGitHub/gitKotlin/Kotlin-Youtube/app/build/intermediates/transforms/dex/debug/folders/1000/10/anko-recyclerview-v7-0.10.1_8142a5609b62fd64d478a14c3f89b453c9b41188/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/akash/.android/build-cache/0d3cf9aedc411e3de6486169d16c910c308d6411/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="78ea232052df889856dcb7b7b542707c89bb3bfb">
+        <dex dex="/home/akash/Desktop/Purvo/MyGitHub/gitKotlin/Kotlin-Youtube/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_4a0185611d7bf88d25d6edc69add64eafa921a40/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/akash/.gradle/caches/modules-2/files-2.1/com.github.bumptech.glide/glide/3.7.0/9e9eeaf9948ee4d6c3ab354e8dc14368f16994a4/glide-3.7.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="9e9eeaf9948ee4d6c3ab354e8dc14368f16994a4">
+        <dex dex="/home/akash/Desktop/Purvo/MyGitHub/gitKotlin/Kotlin-Youtube/app/build/intermediates/transforms/dex/debug/folders/1000/10/glide-3.7.0_63fbf3dd1b85b7416d652cc601af0d96d76df1b3/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/akash/.gradle/caches/modules-2/files-2.1/org.jetbrains.anko/anko-appcompat-v7/0.10.1/f993469c89aed05174afe18c0697e9bc9b4f5163/anko-appcompat-v7-0.10.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="f993469c89aed05174afe18c0697e9bc9b4f5163">
+        <dex dex="/home/akash/Desktop/Purvo/MyGitHub/gitKotlin/Kotlin-Youtube/app/build/intermediates/transforms/dex/debug/folders/1000/10/anko-appcompat-v7-0.10.1_c4d693573aa3c9a1d0b6e67edce5180d9f149e55/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/akash/.gradle/caches/modules-2/files-2.1/org.jetbrains.anko/anko-support-v4/0.10.1/9d6b830b27dd040cfcfd17beb731f8d1e701df5a/anko-support-v4-0.10.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="9d6b830b27dd040cfcfd17beb731f8d1e701df5a">
+        <dex dex="/home/akash/Desktop/Purvo/MyGitHub/gitKotlin/Kotlin-Youtube/app/build/intermediates/transforms/dex/debug/folders/1000/10/anko-support-v4-0.10.1_36540b045771c2c7fbbff946592e0e76f044d5f8/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/akash/Desktop/Purvo/MyGitHub/gitKotlin/Kotlin-Youtube/app/libs/YouTubeAndroidPlayerApi.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="3c4f96ff493456651cc7bdb0b47e10eb25545a16">
+        <dex dex="/home/akash/Desktop/Purvo/MyGitHub/gitKotlin/Kotlin-Youtube/app/build/intermediates/transforms/dex/debug/folders/1000/2/YouTubeAndroidPlayerApi_18edeef7787f21ec828a249528f502798f5152bf/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/akash/.android/build-cache/7ba42d47d2e37312b0f4bf65f221e02e9296d2e0/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="/home/akash/Desktop/Purvo/MyGitHub/gitKotlin/Kotlin-Youtube/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_20bbe5347fad101b526e8837a8478d466a66a865/classes.dex" />
+    </item>
+
+</items>
